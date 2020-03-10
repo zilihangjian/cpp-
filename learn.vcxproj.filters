@@ -48,5 +48,14 @@
     <ClCompile Include="3.3hexoct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.4hexoct2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5chartype.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6morechar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
