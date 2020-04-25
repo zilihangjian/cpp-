@@ -99,5 +99,17 @@
     <ClCompile Include="4.11structur.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.19addpntrs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.21newstrct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.22delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.24choices.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
