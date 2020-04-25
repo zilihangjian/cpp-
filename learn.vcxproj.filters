@@ -111,5 +111,14 @@
     <ClCompile Include="4.24choices.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.1forloop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3express.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4formore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
