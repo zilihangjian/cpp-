@@ -1,4 +1,6 @@
-!.cpp
+*
+!*.cpp
+!Makefile
 # Prerequisites
 *.d
 
