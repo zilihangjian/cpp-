@@ -1,6 +1,6 @@
 // ifelseif.cpp -- using if else if else
 #include <iostream>
-const int Fave = 17;
+const int Fave = 37;
 int main()
 {
     using namespace std;
