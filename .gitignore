@@ -1,5 +1,7 @@
 *
 !*.cpp
+!chapter*
+!*.txt
 !Makefile
 # Prerequisites
 *.d
