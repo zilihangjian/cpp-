@@ -155,6 +155,14 @@
     <ClCompile Include="carrot.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="chapter2\2.7.3.cpp" />
+    <ClCompile Include="chapter2\2.7.5.cpp" />
+    <ClCompile Include="chapter2\carrot.cpp" />
+    <ClCompile Include="chapter2\convert.cpp" />
+    <ClCompile Include="chapter2\getinfo.cpp" />
+    <ClCompile Include="chapter2\myfirst.cpp" />
+    <ClCompile Include="chapter2\ourfunc.cpp" />
+    <ClCompile Include="chapter2\sqrt.cpp" />
     <ClCompile Include="convert.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

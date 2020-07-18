@@ -9,6 +9,12 @@
 *.user
 *.userosscache
 *.sln.docstates
+# 自定义只上传cpp
+*
+!*.cpp
+!chapter*
+!*.txt
+!Makefile
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
