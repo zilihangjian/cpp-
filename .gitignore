@@ -10,7 +10,6 @@
 *.userosscache
 *.sln.docstates
 # 自定义只上传cpp
-*
 !*.cpp
 !chapter*
 !*.txt
